@@ -28,8 +28,8 @@ Additional tools:
 
 ### Software
 
-1. C++
-2. Python
+1. C++ 
+2. Python 
 
 ### Inspiration
 
