@@ -28,14 +28,20 @@ Additional tools:
 
 ### Software
 
-1. C++ 
-2. Python 
+1. C++ (FreeRTOS)
+2. Python
 
 ### Inspiration
 
 [Macro Keyboard](https://www.printables.com/model/1050534-macro-keyboard-9keys-1knob)
 [PiPico Macropad](https://www.printables.com/model/152449-raspberry-pi-pico-macropad)
 
-## Materials
+## Materials/Requirements
 
 The materials and the design will be all 3D printed.
+
+1. PiPico
+2. Leds
+3. Keys and Buttons
+4. SDK for the Pico (extension available in VSCode)
+5. [FreeRTOS.org](https://www.freertos.org) - Manual implementation
